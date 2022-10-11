@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace MinimalAPI_Template.Endpoints.Internal;
+namespace MinimalAPI.Endpoints.Internal;
 
 public static class EndpointExtensions
 {

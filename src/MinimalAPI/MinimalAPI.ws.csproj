@@ -4,8 +4,8 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-MinimalAPI_Template-8123aefc-e86d-4c23-b3e6-0a6ae7096f49</UserSecretsId>
-    <RootNamespace>MinimalAPI_Template</RootNamespace>
+    <UserSecretsId>aspnet-MinimalAPI-8123aefc-e86d-4c23-b3e6-0a6ae7096f49</UserSecretsId>
+    <RootNamespace>MinimalAPI</RootNamespace>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 	<EnablePreviewFeatures>True</EnablePreviewFeatures>
 	<NoWarn>CA2252</NoWarn>

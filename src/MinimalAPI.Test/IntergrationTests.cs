@@ -1,8 +1,8 @@
 using System.Net;
 using FluentAssertions;
 using Xunit;
-using MinimalAPI_Template;
-using MinimalAPI_Template.Endpoints; 
+using MinimalAPI;
+using MinimalAPI.Endpoints; 
 
 namespace MinimalAPI.IntergrationTest;
 

@@ -1,6 +1,6 @@
-﻿using MinimalAPI_Template.Endpoints.Internal;
+﻿using MinimalAPI.Endpoints.Internal;
 
-namespace MinimalAPI_Template.Endpoints;
+namespace MinimalAPI.Endpoints;
 
 public class WeatherForceast : IEndpoints
 {

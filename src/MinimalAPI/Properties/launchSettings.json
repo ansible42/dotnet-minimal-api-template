@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "MinimalAPI_Template": {
+    "MinimalAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

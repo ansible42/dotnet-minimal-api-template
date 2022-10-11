@@ -25,7 +25,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MinimalAPI-Template\MinimalAPI.csproj" />
+    <ProjectReference Include="..\MinimalAPI\MinimalAPI.ws.csproj" />
   </ItemGroup>
+
+
 
 </Project>

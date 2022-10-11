@@ -1,4 +1,4 @@
-﻿namespace MinimalAPI_Template.Endpoints.Internal;  
+﻿namespace MinimalAPI.Endpoints.Internal;  
 
 public interface IEndpoints
 {

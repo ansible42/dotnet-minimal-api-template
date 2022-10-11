@@ -1,4 +1,4 @@
-using MinimalAPI_Template.Endpoints.Internal;
+using MinimalAPI.Endpoints.Internal;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSwaggerGen();

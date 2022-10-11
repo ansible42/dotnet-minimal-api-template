@@ -1,4 +1,5 @@
 ﻿using MinimalAPI.Endpoints.Internal;
+using System.Formats.Asn1;
 
 namespace MinimalAPI.Endpoints;
 

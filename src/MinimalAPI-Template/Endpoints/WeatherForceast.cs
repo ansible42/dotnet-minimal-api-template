@@ -1,5 +1,4 @@
-﻿using Microsoft.Identity.Web.Resource;
-using MinimalAPI_Template.Endpoints.Internal;
+﻿using MinimalAPI_Template.Endpoints.Internal;
 
 namespace MinimalAPI_Template.Endpoints;
 

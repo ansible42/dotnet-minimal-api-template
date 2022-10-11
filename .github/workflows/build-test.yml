@@ -44,7 +44,7 @@ jobs:
       run: dotnet build ${{ env.solution }} --no-restore
     
     - name: Test
-      run: dotnet test ${{ env.solution }} --no-build --verbosity normal --logger "trx;LogFileName=test-results.trx"
+      run: dotnet test ${{ env.solution }} -p:CollectCoverage=true -p:CoverletOutput=TestResults/ -p:CoverletOutputFormat=opencover --no-build --verbosity normal --logger "trx;LogFileName=test-results.trx"
     
     - uses: actions/upload-artifact@v2  # upload test results
       if: success() || failure()        # run this step even if previous step failed
